@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://managed-it-orlando-v7.example/sitemap.xml
+Sitemap: https://drbellhealth.github.io/managed-it-orlando-reader/sitemap.xml
